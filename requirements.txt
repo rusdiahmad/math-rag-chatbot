@@ -1,0 +1,10 @@
+langchain>=0.0.320
+openai>=1.0.0
+chromadb>=0.3.21
+fastapi
+uvicorn
+python-dotenv
+streamlit
+pydantic
+requests
+pytest
